@@ -12,4 +12,4 @@ A simple *text-based Hangman game* built with Python. The player must guess the 
 - while loops and if-else statements
 - Strings and lists
 - User input/output in terminal
-CodeAlpha_Tasks
+- CodeAlpha_Tasks
